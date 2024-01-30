@@ -60,10 +60,10 @@
             <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
 
             <head>MRS DALLOWAY IN BOND STREET</head>
-            <byline>BY VIRGINIA WOOLF</byline>
+            <byline>BY <persName type="real">VIRGINIA WOOLF</persName></byline>
 
 
-            <p><persName>Mrs Dalloway</persName> said she would buy the gloves herself.</p>
+            <p><persName>Mrs Dalloway</persName> said she would buy the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="Clothing" xml:space="default">gloves</objectName> herself.</p>
             <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
