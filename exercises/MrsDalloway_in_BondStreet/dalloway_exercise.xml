@@ -60,7 +60,7 @@
             <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
 
             <head>MRS DALLOWAY IN BOND STREET</head>
-            <byline>BY <persName type="real">VIRGINIA WOOLF</persName></byline>
+            <byline>BY <persName type="real" key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" role="aut">VIRGINIA WOOLF</persName></byline>
 
 
             <p><persName>Mrs Dalloway</persName> said she would buy the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="Clothing" xml:space="default">gloves</objectName> herself.</p>
